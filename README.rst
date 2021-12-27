@@ -1,40 +1,41 @@
-AlertOps Expert Guidance
+How Much Will Your Outage Cost?
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
-
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
-
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
+Has your company ever faced an outage? If so you are not alone.
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Internet and airline outages seem to be the new trend, with major websites flickering on and off for US based internet users. The hackers flood the websites with traffic so they can’t handle the visits from their ordinary users. Besides the inconvenience to the user attempting to use the site, there is also the question of how the attack will affect the company. System outages no matter how small they are still cost the bottom line.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+The average for a single hour attack can cost up to $20,000. For some companies the cost of an attack can cost up to $100,000 per hour. The majority of attacks continue for more than six hours, think about how much you will be losing from your bottom line. While the cost can range anywhere from $1 to $100,000 per minute of downtime. Why risk losing your bottom line for one outage?
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Most businesses under attacks will lose revenue from reduced web traffic, and having to spend money on software after an attack. Let’s use the Delta Airlines as an example, they lost their customers trust after an attack on their computers. And we all know once you lose a customer’s trust, it’s never a good sign!
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Delta lost over $150 million dollars when they lost power at their operations center. Thus causing computers needed to check in passengers and fly planes to be down for 5 hours. Delta then had to cancel over 1,000 flights the day of the outage and ground flight for the following two days, along with accommodations to customers for future travel.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+These are all examples of major IT incidents, and the response requires effective communication. Research has shown that communication alone can reduce time to resolve major incidents by at least 15 minutes, and sometimes even much more time can be saved. Let’s take a look at how to handle a critical incident:
 
-1 Red Canary 2021 Threat Detection Report
+Keeping your stakeholders and customers up to date:
+
+Transparency is very important when it comes to incident management in order to maintain the trust of stakeholders. When an issue arises all necessary senior management, customer service representatives, and customers should not only be notified but also receive status updates. The company should determine which channel of communication is most effective in reaching the desired individuals.
+
+Putting the team into action to solve the problem:
+
+As soon as an issue is identified teams should be notified so they can start working on the resolution process. Determining how and which team members should be notified and what resources they will need are crucial steps in the process.
+
+Automated systems workflows:
+
+Your time is not well spent when your company is notifying and updating systems rather than working on problem resolution. AlertOps is capable of automating that update and notification process for you. It’s just a quick, one time setup that saves you time.
+
+AlertOps as a major incident communications platform:
+
+If your major incident management team is scrambling with Excel spreadsheets, calling trees, multiple scheduling systems, placing phone calls, sending emails and text messages every time this happens, then AlertOps can help you.
+
+AlertOps can trigger all of these communications with a few clicks of a mouse. AlertOps is a rules-based system that allows you to set up precise rules for communicating to different groups using the appropriate means, and has many features to make your incident management life easier: multi-modal communication, teams with on-call schedules, customizable message routing rules, customizable workflows and escalations, SLAs based severity management and much more.
+
+Don’t be like Delta and lose $150 million for a single incident, find out how AlertOps can help get your attacks handled faster.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/outage-cost/
 
 Read more:
 ====
